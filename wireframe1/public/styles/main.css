@@ -1,0 +1,9 @@
+body{
+	background-image: url("/assets/vashtibackground.jpg");
+}
+.navbar{
+	background-color: #FCF2B3;
+	border-color: #FCF2B3;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+}
